@@ -1,5 +1,4 @@
-docs/_site/
-docs/.sass-cache/
-docs/.jekyll-cache/
-docs/.jekyll-metadata
-docs/vendor/
+_site
+.sass-cache
+.jekyll-metadata
+vendor
